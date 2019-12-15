@@ -1,0 +1,1 @@
+# discord-emoji-list-bot
